@@ -32,7 +32,7 @@ const UserMenu = () => {
           <MenuButton
             as={IconButton}
             aria-label="Options"
-            icon={<FaUserAstronaut color="white" fontSize="18px" />}
+            icon={<FaUserAstronaut color="pink" fontSize="18px" />}
             bg="ui.main"
             isRound
             data-testid="user-menu"
@@ -53,7 +53,7 @@ const UserMenu = () => {
         </Menu>
       </Box>
     </>
-  )
+  );
 }
 
 export default UserMenu

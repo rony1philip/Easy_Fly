@@ -1,0 +1,1868 @@
+{
+  "locations": [
+    {
+      "id": "LCG",
+      "int_id": 9626,
+      "airport_int_id": 9626,
+      "active": true,
+      "code": "LCG",
+      "icao": "LECO",
+      "name": "A Coruña",
+      "slug": "a-coruna-a-coruna-spain-1",
+      "slug_en": "a-coruna-a-coruna-spain-1",
+      "alternative_names": ["Aeropuerto de La Coruña"],
+      "rank": 698,
+      "global_rank_dst": 176,
+      "dst_popularity_score": 202445,
+      "timezone": "Europe/Madrid",
+      "city": {
+        "id": "a-coruna_es",
+        "name": "A Coruña",
+        "code": "LCG",
+        "slug": "a-coruna-spain",
+        "country": {
+          "id": "ES",
+          "name": "Spain",
+          "slug": "spain",
+          "code": "ES"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "southern-europe",
+          "name": "Southern Europe",
+          "slug": "southern-europe"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "europe",
+          "name": "Europe",
+          "slug": "europe",
+          "code": "EU"
+        },
+        "subdivision": {
+          "id": "GA_ES",
+          "name": "Galicia",
+          "slug": "galicia-spain",
+          "code": "GA"
+        }
+      },
+      "location": {
+        "lat": 43.302222,
+        "lon": -8.377222
+      },
+      "alternative_departure_points": [
+        {
+          "id": "VGO",
+          "distance": 156.24,
+          "duration": 6426.7
+        },
+        {
+          "id": "OVD",
+          "distance": 245.97,
+          "duration": 10245.5
+        },
+        {
+          "id": "SCQ",
+          "distance": 61.55,
+          "duration": 2942.8
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightsee- ing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "family fun",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1175, 1179, 1225],
+      "special": [
+        {
+          "id": "santiago-de-compostela_poi",
+          "name": "Santiago De Compostela",
+          "slug": "santiago-de-compostela"
+        }
+      ],
+      "tourist_region": [
+        {
+          "id": "green-spain_poi",
+          "name": "Green Spain",
+          "slug": "green-spain"
+        },
+        {
+          "id": "galicia_poi",
+          "name": "Galicia",
+          "slug": "galicia"
+        },
+        {
+          "id": "the-english-route_poi",
+          "name": "The English Route",
+          "slug": "the-english-route"
+        },
+        {
+          "id": "artabro-gulf_poi",
+          "name": "Artabro Gulf",
+          "slug": "artabro-gulf"
+        }
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["164789"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "AAL",
+      "int_id": 2213,
+      "airport_int_id": 2213,
+      "active": true,
+      "code": "AAL",
+      "icao": "EKYT",
+      "name": "Aalborg",
+      "slug": "aalborg-aalborg-denmark",
+      "slug_en": "aalborg-aalborg-denmark",
+      "alternative_names": ["Aalborg Lufthavn"],
+      "rank": 665,
+      "global_rank_dst": 222,
+      "dst_popularity_score": 70815,
+      "timezone": "Europe/Copenhagen",
+      "city": {
+        "id": "aalborg_dk",
+        "name": "Aalborg",
+        "code": "AAL",
+        "slug": "aalborg-denmark",
+        "country": {
+          "id": "DK",
+          "name": "Denmark",
+          "slug": "denmark",
+          "code": "DK"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-europe",
+          "name": "Northern Europe",
+          "slug": "northern-europe"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "europe",
+          "name": "Europe",
+          "slug": "europe",
+          "code": "EU"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 57.092778,
+        "lon": 9.849167
+      },
+      "alternative_departure_points": [
+        {
+          "id": "BYR",
+          "distance": 103.76,
+          "duration": 9491.5
+        },
+        {
+          "id": "KRP",
+          "distance": 133.92,
+          "duration": 7516.9
+        },
+        {
+          "id": "AAR",
+          "distance": 145.1,
+          "duration": 6740.1
+        },
+        {
+          "id": "BLL",
+          "distance": 222.15,
+          "duration": 9348.8
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "events",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1277],
+      "special": [
+        {
+          "id": "vendsyssel-thy_poi",
+          "name": "Vendsyssel-Thy",
+          "slug": "vendsyssel-thy"
+        },
+        {
+          "id": "hisingen_poi",
+          "name": "Hisingen",
+          "slug": "hisingen"
+        }
+      ],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "AAR",
+      "int_id": 2221,
+      "airport_int_id": 2221,
+      "active": true,
+      "code": "AAR",
+      "icao": "EKAH",
+      "name": "Aarhus",
+      "slug": "aarhus-aarhus-denmark",
+      "slug_en": "aarhus-aarhus-denmark",
+      "alternative_names": ["Aarhus Lufthavn"],
+      "rank": 962,
+      "global_rank_dst": 264,
+      "dst_popularity_score": 62795,
+      "timezone": "Europe/Copenhagen",
+      "city": {
+        "id": "aarhus_dk",
+        "name": "Aarhus",
+        "code": "AAR",
+        "slug": "aarhus-denmark",
+        "country": {
+          "id": "DK",
+          "name": "Denmark",
+          "slug": "denmark",
+          "code": "DK"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-europe",
+          "name": "Northern Europe",
+          "slug": "northern-europe"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "europe",
+          "name": "Europe",
+          "slug": "europe",
+          "code": "EU"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 56.303889,
+        "lon": 10.619444
+      },
+      "alternative_departure_points": [
+        {
+          "id": "KRP",
+          "distance": 123.2,
+          "duration": 6208.2
+        },
+        {
+          "id": "BLL",
+          "distance": 138.76,
+          "duration": 6224.1
+        },
+        {
+          "id": "CPH",
+          "distance": 190.44,
+          "duration": 10514.7
+        },
+        {
+          "id": "EBJ",
+          "distance": 197.28,
+          "duration": 7735.8
+        },
+        {
+          "id": "SGD",
+          "distance": 239.13,
+          "duration": 9496.3
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1175, 1277],
+      "special": [
+        {
+          "id": "louisiana-museum-of-modern-art_poi",
+          "name": "Louisiana Museum of Modern Art",
+          "slug": "louisiana-museum-of-modern-art"
+        },
+        {
+          "id": "funen_poi",
+          "name": "Funen",
+          "slug": "funen"
+        },
+        {
+          "id": "zealand_poi",
+          "name": "Zealand",
+          "slug": "zealand"
+        },
+        {
+          "id": "amager_poi",
+          "name": "Amager",
+          "slug": "amager"
+        },
+        {
+          "id": "foteviken-viking_poi",
+          "name": "Foteviken Viking",
+          "slug": "foteviken-viking"
+        },
+        {
+          "id": "vendsyssel-thy_poi",
+          "name": "Vendsyssel-Thy",
+          "slug": "vendsyssel-thy"
+        }
+      ],
+      "tourist_region": [],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["304277"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "JIM",
+      "int_id": 6296,
+      "airport_int_id": 6296,
+      "active": true,
+      "code": "JIM",
+      "icao": "HAJM",
+      "name": "Aba Segud",
+      "slug": "aba-segud-jimma-ethiopia",
+      "slug_en": "aba-segud-jimma-ethiopia",
+      "alternative_names": [],
+      "rank": 2048,
+      "global_rank_dst": 1000,
+      "dst_popularity_score": 877,
+      "timezone": "Africa/Addis_Ababa",
+      "city": {
+        "id": "jimma_et",
+        "name": "Jimma",
+        "code": "JIM",
+        "slug": "jimma-ethiopia",
+        "country": {
+          "id": "ET",
+          "name": "Ethiopia",
+          "slug": "ethiopia",
+          "code": "ET"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "eastern-africa",
+          "name": "Eastern Africa",
+          "slug": "eastern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 7.662778,
+        "lon": 36.818056
+      },
+      "alternative_departure_points": [],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "DIR",
+      "int_id": 1115,
+      "airport_int_id": 1115,
+      "active": true,
+      "code": "DIR",
+      "icao": "HADR",
+      "name": "Aba Tenna Dejazmach Yilma International",
+      "slug": "aba-tenna-dejazmach-yilma-international-dire-dawa-ethiopia",
+      "slug_en": "aba-tenna-dejazmach-yilma-international-dire-dawa-ethiopia",
+      "alternative_names": [],
+      "rank": 1444,
+      "global_rank_dst": 882,
+      "dst_popularity_score": 1951,
+      "timezone": "Africa/Addis_Ababa",
+      "city": {
+        "id": "dire-dawa_et",
+        "name": "Dire Dawa",
+        "code": "DIR",
+        "slug": "dire-dawa-ethiopia",
+        "country": {
+          "id": "ET",
+          "name": "Ethiopia",
+          "slug": "ethiopia",
+          "code": "ET"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "eastern-africa",
+          "name": "Eastern Africa",
+          "slug": "eastern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 9.624722,
+        "lon": 41.854167
+      },
+      "alternative_departure_points": [
+        {
+          "id": "JIJ",
+          "distance": 171.47,
+          "duration": 12201.9
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "AHJ",
+      "int_id": 9854,
+      "airport_int_id": 9854,
+      "active": true,
+      "code": "AHJ",
+      "icao": "ZUHY",
+      "name": "Aba/Hongyuan",
+      "slug": "aba-hongyuan-aba-hongyuan-china",
+      "slug_en": "aba-hongyuan-aba-hongyuan-china",
+      "alternative_names": [],
+      "rank": 2048,
+      "global_rank_dst": 1190,
+      "dst_popularity_score": 169,
+      "timezone": "Asia/Shanghai",
+      "city": {
+        "id": "aba-hongyuan_cn",
+        "name": "Aba Hongyuan",
+        "code": "AHJ",
+        "slug": "aba-hongyuan-china",
+        "country": {
+          "id": "CN",
+          "name": "China",
+          "slug": "china",
+          "code": "CN"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "eastern-asia",
+          "name": "Eastern Asia",
+          "slug": "eastern-asia"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "asia",
+          "name": "Asia",
+          "slug": "asia",
+          "code": "AS"
+        },
+        "subdivision": {
+          "id": "SC_CN",
+          "name": "Sichuan",
+          "slug": "sichuan-china",
+          "code": "SC"
+        }
+      },
+      "location": {
+        "lat": 32.53154,
+        "lon": 102.35224
+      },
+      "alternative_departure_points": [],
+      "tags": [],
+      "providers": [],
+      "special": [],
+      "tourist_region": [
+        {
+          "id": "sichuan_poi",
+          "name": "Sichuan",
+          "slug": "sichuan"
+        }
+      ],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "BJA",
+      "int_id": 6683,
+      "airport_int_id": 6683,
+      "active": true,
+      "code": "BJA",
+      "icao": "DAAE",
+      "name": "Abane Ramdane",
+      "slug": "abane-ramdane-bejaia-algeria",
+      "slug_en": "abane-ramdane-bejaia-algeria",
+      "alternative_names": ["مطار بجاية الدولي - عبان رمضان"],
+      "rank": 1204,
+      "global_rank_dst": 300,
+      "dst_popularity_score": 86554,
+      "timezone": "Africa/Algiers",
+      "city": {
+        "id": "bejaia_dz",
+        "name": "Béjaïa",
+        "code": "BJA",
+        "slug": "bejaia-algeria",
+        "country": {
+          "id": "DZ",
+          "name": "Algeria",
+          "slug": "algeria",
+          "code": "DZ"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-africa",
+          "name": "Northern Africa",
+          "slug": "northern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 36.711944,
+        "lon": 5.07
+      },
+      "alternative_departure_points": [
+        {
+          "id": "GJL",
+          "distance": 105.46,
+          "duration": 5877.7
+        },
+        {
+          "id": "QSF",
+          "distance": 115.1,
+          "duration": 6525.9
+        },
+        {
+          "id": "BLJ",
+          "distance": 222.24,
+          "duration": 11474.1
+        },
+        {
+          "id": "ALG",
+          "distance": 231.88,
+          "duration": 12284.7
+        },
+        {
+          "id": "CZL",
+          "distance": 236.74,
+          "duration": 11272.3
+        }
+      ],
+      "tags": [
+        {
+          "tag": "activities",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "city break",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [],
+      "special": [],
+      "tourist_region": [
+        {
+          "id": "bejaia_poi",
+          "name": "Bejaia",
+          "slug": "bejaia"
+        }
+      ],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "YXX",
+      "int_id": 6795,
+      "airport_int_id": 6795,
+      "active": true,
+      "code": "YXX",
+      "icao": "CYXX",
+      "name": "Abbotsford International",
+      "slug": "abbotsford-international-abbotsford-british-columbia-canada",
+      "slug_en": "abbotsford-international-abbotsford-british-columbia-canada",
+      "alternative_names": [],
+      "rank": 580,
+      "global_rank_dst": 305,
+      "dst_popularity_score": 72249,
+      "timezone": "America/Vancouver",
+      "city": {
+        "id": "abbotsford_bc_ca",
+        "name": "Abbotsford",
+        "code": "YXX",
+        "slug": "abbotsford-british-columbia-canada",
+        "country": {
+          "id": "CA",
+          "name": "Canada",
+          "slug": "canada",
+          "code": "CA"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-america",
+          "name": "Northern America",
+          "slug": "northern-america"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "north-america",
+          "name": "North America",
+          "slug": "north-america",
+          "code": "NA"
+        },
+        "subdivision": {
+          "id": "BC_CA",
+          "name": "British Columbia",
+          "slug": "british-columbia-canada",
+          "code": "BC"
+        }
+      },
+      "location": {
+        "lat": 49.025278,
+        "lon": -122.36056
+      },
+      "alternative_departure_points": [
+        {
+          "id": "YYJ",
+          "distance": 130.3,
+          "duration": 11281.8
+        },
+        {
+          "id": "YHS",
+          "distance": 133.14,
+          "duration": 9150.9
+        },
+        {
+          "id": "YGG",
+          "distance": 146.08,
+          "duration": 13345.1
+        },
+        {
+          "id": "ZNA",
+          "distance": 151.92,
+          "duration": 11712.5
+        },
+        {
+          "id": "PAE",
+          "distance": 154.52,
+          "duration": 7790.4
+        },
+        {
+          "id": "YWH",
+          "distance": 155.79,
+          "duration": 12811.8
+        },
+        {
+          "id": "YCD",
+          "distance": 165.97,
+          "duration": 12621.9
+        },
+        {
+          "id": "YWS",
+          "distance": 195.75,
+          "duration": 10695.3
+        },
+        {
+          "id": "SEA",
+          "distance": 209.77,
+          "duration": 10801.8
+        },
+        {
+          "id": "YPW",
+          "distance": 242.82,
+          "duration": 17002.2
+        },
+        {
+          "id": "BLI",
+          "distance": 43.52,
+          "duration": 2989.2
+        },
+        {
+          "id": "CXH",
+          "distance": 72.58,
+          "duration": 4096.4
+        },
+        {
+          "id": "YVR",
+          "distance": 80.09,
+          "duration": 4750.6
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "activities",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1277],
+      "special": [
+        {
+          "id": "lulu-island_poi",
+          "name": "Lulu Island",
+          "slug": "lulu-island"
+        },
+        {
+          "id": "museum-of-anthropology-vancouver-bc_poi",
+          "name": "Museum of Anthropology, Vancouver, BC",
+          "slug": "museum-of-anthropology"
+        },
+        {
+          "id": "grouse-mountain_poi",
+          "name": "Grouse Mountain",
+          "slug": "grouse-mountain"
+        }
+      ],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "TID",
+      "int_id": 4894,
+      "airport_int_id": 4894,
+      "active": true,
+      "code": "TID",
+      "icao": "DAOB",
+      "name": "Abdelhafid Boussouf Bou Chekif",
+      "slug": "abdelhafid-boussouf-bou-chekif-tiaret-algeria",
+      "slug_en": "abdelhafid-boussouf-bou-chekif-tiaret-algeria",
+      "alternative_names": [],
+      "rank": 2048,
+      "global_rank_dst": 1085,
+      "dst_popularity_score": 556,
+      "timezone": "Africa/Algiers",
+      "city": {
+        "id": "tiaret_dz",
+        "name": "Tiaret",
+        "code": "TID",
+        "slug": "tiaret-algeria",
+        "country": {
+          "id": "DZ",
+          "name": "Algeria",
+          "slug": "algeria",
+          "code": "DZ"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-africa",
+          "name": "Northern Africa",
+          "slug": "northern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 35.341667,
+        "lon": 1.466944
+      },
+      "alternative_departure_points": [
+        {
+          "id": "CFK",
+          "distance": 152.72,
+          "duration": 10614.4
+        },
+        {
+          "id": "EBH",
+          "distance": 214.08,
+          "duration": 13356.8
+        },
+        {
+          "id": "ORN",
+          "distance": 242.15,
+          "duration": 13688.6
+        }
+      ],
+      "tags": [],
+      "providers": [],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "MLG",
+      "int_id": 8317,
+      "airport_int_id": 8317,
+      "active": true,
+      "code": "MLG",
+      "icao": "WARA",
+      "name": "Abdul Rachman Saleh",
+      "slug": "abdul-rachman-saleh-malang-indonesia",
+      "slug_en": "abdul-rachman-saleh-malang-indonesia",
+      "alternative_names": [],
+      "rank": 1521,
+      "global_rank_dst": 558,
+      "dst_popularity_score": 8520,
+      "timezone": "Asia/Jakarta",
+      "city": {
+        "id": "malang_id",
+        "name": "Malang",
+        "code": "MLG",
+        "slug": "malang-indonesia",
+        "country": {
+          "id": "ID",
+          "name": "Indonesia",
+          "slug": "indonesia",
+          "code": "ID"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "south-eastern-asia",
+          "name": "South-Eastern Asia",
+          "slug": "south-eastern-asia"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "asia",
+          "name": "Asia",
+          "slug": "asia",
+          "code": "AS"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": -7.926667,
+        "lon": 112.714444
+      },
+      "alternative_departure_points": [
+        {
+          "id": "SUB",
+          "distance": 81.89,
+          "duration": 4986.1
+        }
+      ],
+      "tags": [
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1282],
+      "special": [],
+      "tourist_region": [
+        {
+          "id": "autumn-sun_poi",
+          "name": "Autumn Sun",
+          "slug": "autumn-sun"
+        },
+        {
+          "id": "east-java_poi",
+          "name": "East Java",
+          "slug": "east-java"
+        },
+        {
+          "id": "madura_poi",
+          "name": "Madura",
+          "slug": "madura"
+        }
+      ],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "GLK",
+      "int_id": 7141,
+      "airport_int_id": 7141,
+      "active": true,
+      "code": "GLK",
+      "icao": "HCMR",
+      "name": "Abdullahi Yusuf",
+      "slug": "abdullahi-yusuf-galkayo-somalia",
+      "slug_en": "abdullahi-yusuf-galkayo-somalia",
+      "alternative_names": ["‪Abdullahi Yusuf Airport‬‏"],
+      "rank": 1709,
+      "global_rank_dst": 1402,
+      "dst_popularity_score": 136,
+      "timezone": "Africa/Mogadishu",
+      "city": {
+        "id": "galkayo_so",
+        "name": "Galkayo",
+        "code": "GLK",
+        "slug": "galkayo-somalia",
+        "country": {
+          "id": "SO",
+          "name": "Somalia",
+          "slug": "somalia",
+          "code": "SO"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "eastern-africa",
+          "name": "Eastern Africa",
+          "slug": "eastern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 6.781389,
+        "lon": 47.454444
+      },
+      "alternative_departure_points": [],
+      "tags": [],
+      "providers": [],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "ZNZ",
+      "int_id": 6432,
+      "airport_int_id": 6432,
+      "active": true,
+      "code": "ZNZ",
+      "icao": "HTZA",
+      "name": "Abeid Amani Karume International",
+      "slug": "abeid-amani-karume-international-zanzibar-tanzania",
+      "slug_en": "abeid-amani-karume-international-zanzibar-tanzania",
+      "alternative_names": [],
+      "rank": 384,
+      "global_rank_dst": 76,
+      "dst_popularity_score": 1108588,
+      "timezone": "Africa/Dar_es_Salaam",
+      "city": {
+        "id": "zanzibar_tz",
+        "name": "Zanzibar",
+        "code": "ZNZ",
+        "slug": "zanzibar-tanzania",
+        "country": {
+          "id": "TZ",
+          "name": "Tanzania",
+          "slug": "tanzania",
+          "code": "TZ"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "eastern-africa",
+          "name": "Eastern Africa",
+          "slug": "eastern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": -6.221944,
+        "lon": 39.225
+      },
+      "alternative_departure_points": [],
+      "tags": [
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "unusual",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1282],
+      "special": [
+        {
+          "id": "zanzibar-island_poi",
+          "name": "Unguja (Zanzibar Island)",
+          "slug": "unguja-zanzibar-island-"
+        }
+      ],
+      "tourist_region": [],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "ABZ",
+      "int_id": 7019,
+      "airport_int_id": 7019,
+      "active": true,
+      "code": "ABZ",
+      "icao": "EGPD",
+      "name": "Aberdeen",
+      "slug": "aberdeen-aberdeen-united-kingdom",
+      "slug_en": "aberdeen-aberdeen-united-kingdom",
+      "alternative_names": [],
+      "rank": 832,
+      "global_rank_dst": 205,
+      "dst_popularity_score": 150205,
+      "timezone": "Europe/London",
+      "city": {
+        "id": "aberdeen_gb",
+        "name": "Aberdeen",
+        "code": "ABZ",
+        "slug": "aberdeen-united-kingdom",
+        "country": {
+          "id": "GB",
+          "name": "United Kingdom",
+          "slug": "united-kingdom",
+          "code": "GB"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-europe",
+          "name": "Northern Europe",
+          "slug": "northern-europe"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "europe",
+          "name": "Europe",
+          "slug": "europe",
+          "code": "EU"
+        },
+        "subdivision": {
+          "id": "SC_GB",
+          "name": "Scotland",
+          "slug": "scotland-united-kingdom",
+          "code": "SCT"
+        }
+      },
+      "location": {
+        "lat": 57.204167,
+        "lon": -2.200278
+      },
+      "alternative_departure_points": [
+        {
+          "id": "DND",
+          "distance": 117.22,
+          "duration": 5318.1
+        },
+        {
+          "id": "INV",
+          "distance": 148.43,
+          "duration": 7668.2
+        },
+        {
+          "id": "EDI",
+          "distance": 192.02,
+          "duration": 8725.8
+        }
+      ],
+      "tags": [
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1165, 1175, 1277, 1283, 1284],
+      "special": [
+        {
+          "id": "edinburgh-castle_poi",
+          "name": "Edinburgh Castle",
+          "slug": "edinburgh-castle"
+        },
+        {
+          "id": "stirling_poi",
+          "name": "Stirling",
+          "slug": "stirling"
+        },
+        {
+          "id": "edinburgh-royal-mile_poi",
+          "name": "Edinburgh Royal Mile",
+          "slug": "edinburgh-royal-mile"
+        },
+        {
+          "id": "kelvingrove-art-gallery-and-museum_poi",
+          "name": "Kelvingrove Art Gallery & Museum",
+          "slug": "kelvingrove-art-gallery-and-museum"
+        }
+      ],
+      "tourist_region": [
+        {
+          "id": "grampian_poi",
+          "name": "Grampian",
+          "slug": "grampian"
+        },
+        {
+          "id": "aberdeenshire_poi",
+          "name": "Aberdeenshire",
+          "slug": "aberdeenshire"
+        }
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["164424"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "ABR",
+      "int_id": 7012,
+      "airport_int_id": 7012,
+      "active": true,
+      "code": "ABR",
+      "icao": "KABR",
+      "name": "Aberdeen Regional",
+      "slug": "aberdeen-regional-aberdeen-south-dakota-united-states",
+      "slug_en": "aberdeen-regional-aberdeen-south-dakota-united-states",
+      "alternative_names": [],
+      "rank": 2048,
+      "global_rank_dst": 730,
+      "dst_popularity_score": 3961,
+      "timezone": "America/Chicago",
+      "city": {
+        "id": "aberdeen_sd_us",
+        "name": "Aberdeen",
+        "code": "ABR",
+        "slug": "aberdeen-south-dakota-united-states",
+        "country": {
+          "id": "US",
+          "name": "United States",
+          "slug": "united-states",
+          "code": "US"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-america",
+          "name": "Northern America",
+          "slug": "northern-america"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "north-america",
+          "name": "North America",
+          "slug": "north-america",
+          "code": "NA"
+        },
+        "subdivision": {
+          "id": "SD_US",
+          "name": "South Dakota",
+          "slug": "south-dakota-united-states",
+          "code": "SD"
+        }
+      },
+      "location": {
+        "lat": 45.453611,
+        "lon": -98.425556
+      },
+      "alternative_departure_points": [
+        {
+          "id": "ATY",
+          "distance": 146.78,
+          "duration": 6647.5
+        },
+        {
+          "id": "JMS",
+          "distance": 176.45,
+          "duration": 9625.6
+        }
+      ],
+      "tags": [
+        {
+          "tag": "family fun",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1175, 1277],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["4026987", "341991"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "AHB",
+      "int_id": 8700,
+      "airport_int_id": 8700,
+      "active": true,
+      "code": "AHB",
+      "icao": "OEAB",
+      "name": "Abha Regional",
+      "slug": "abha-regional-abha-saudi-arabia",
+      "slug_en": "abha-regional-abha-saudi-arabia",
+      "alternative_names": ["مطار أبها الإقليمي"],
+      "rank": 503,
+      "global_rank_dst": 232,
+      "dst_popularity_score": 58900,
+      "timezone": "Asia/Riyadh",
+      "city": {
+        "id": "abha_sa",
+        "name": "Abha",
+        "code": "AHB",
+        "slug": "abha-saudi-arabia",
+        "country": {
+          "id": "SA",
+          "name": "Saudi Arabia",
+          "slug": "saudi-arabia",
+          "code": "SA"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "western-asia",
+          "name": "Western Asia",
+          "slug": "western-asia"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "asia",
+          "name": "Asia",
+          "slug": "asia",
+          "code": "AS"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 18.240278,
+        "lon": 42.656667
+      },
+      "alternative_departure_points": [
+        {
+          "id": "GIZ",
+          "distance": 214.52,
+          "duration": 9447.6
+        },
+        {
+          "id": "BHH",
+          "distance": 247.63,
+          "duration": 11361.2
+        }
+      ],
+      "tags": [],
+      "providers": [1175],
+      "special": [],
+      "tourist_region": [
+        {
+          "id": "asir-province_poi",
+          "name": "Asir Province",
+          "slug": "asir-province"
+        }
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["2122561", "2995426"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "ABI",
+      "int_id": 7004,
+      "airport_int_id": 7004,
+      "active": true,
+      "code": "ABI",
+      "icao": "KABI",
+      "name": "Abilene Regional",
+      "slug": "abilene-regional-abilene-texas-united-states",
+      "slug_en": "abilene-regional-abilene-texas-united-states",
+      "alternative_names": [],
+      "rank": 2048,
+      "global_rank_dst": 610,
+      "dst_popularity_score": 8043,
+      "timezone": "America/Chicago",
+      "city": {
+        "id": "abilene_tx_us",
+        "name": "Abilene",
+        "code": "ABI",
+        "slug": "abilene-texas-united-states",
+        "country": {
+          "id": "US",
+          "name": "United States",
+          "slug": "united-states",
+          "code": "US"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-america",
+          "name": "Northern America",
+          "slug": "northern-america"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "north-america",
+          "name": "North America",
+          "slug": "north-america",
+          "code": "NA"
+        },
+        "subdivision": {
+          "id": "TX_US",
+          "name": "Texas",
+          "slug": "texas-united-states",
+          "code": "TX"
+        }
+      },
+      "location": {
+        "lat": 32.411389,
+        "lon": -99.681944
+      },
+      "alternative_departure_points": [
+        {
+          "id": "SJT",
+          "distance": 167.08,
+          "duration": 7954.8
+        }
+      ],
+      "tags": [
+        {
+          "tag": "activities",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "family fun",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1175, 1277],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["342006", "1299978"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "SPI",
+      "int_id": 10,
+      "airport_int_id": 10,
+      "active": true,
+      "code": "SPI",
+      "icao": "KSPI",
+      "name": "Abraham Lincoln Capital",
+      "slug": "abraham-lincoln-capital-springfield-illinois-united-states",
+      "slug_en": "abraham-lincoln-capital-springfield-illinois-united-states",
+      "alternative_names": [],
+      "rank": 664,
+      "global_rank_dst": 558,
+      "dst_popularity_score": 7666,
+      "timezone": "America/Chicago",
+      "city": {
+        "id": "springfield_il_us",
+        "name": "Springfield",
+        "code": "SPI",
+        "slug": "springfield-illinois-united-states",
+        "country": {
+          "id": "US",
+          "name": "United States",
+          "slug": "united-states",
+          "code": "US"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-america",
+          "name": "Northern America",
+          "slug": "northern-america"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "north-america",
+          "name": "North America",
+          "slug": "north-america",
+          "code": "NA"
+        },
+        "subdivision": {
+          "id": "IL_US",
+          "name": "Illinois",
+          "slug": "illinois-united-states",
+          "code": "IL"
+        }
+      },
+      "location": {
+        "lat": 39.844167,
+        "lon": -89.677778
+      },
+      "alternative_departure_points": [
+        {
+          "id": "BMI",
+          "distance": 108.89,
+          "duration": 5124.1
+        },
+        {
+          "id": "PIA",
+          "distance": 120.66,
+          "duration": 5412.8
+        },
+        {
+          "id": "CMI",
+          "distance": 151.32,
+          "duration": 6850.8
+        },
+        {
+          "id": "BLV",
+          "distance": 169.77,
+          "duration": 8296.2
+        },
+        {
+          "id": "STL",
+          "distance": 185.87,
+          "duration": 8912.6
+        },
+        {
+          "id": "UIN",
+          "distance": 190.24,
+          "duration": 8105.4
+        },
+        {
+          "id": "BRL",
+          "distance": 220.41,
+          "duration": 11771.2
+        },
+        {
+          "id": "DEC",
+          "distance": 76.65,
+          "duration": 3879.5
+        }
+      ],
+      "tags": [
+        {
+          "tag": "activities",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "family fun",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1175, 1277],
+      "special": [],
+      "tourist_region": [
+        {
+          "id": "midwest_poi",
+          "name": "Midwest",
+          "slug": "midwest"
+        }
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["371071", "1687461"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "PSR",
+      "int_id": 423,
+      "airport_int_id": 423,
+      "active": true,
+      "code": "PSR",
+      "icao": "LIBP",
+      "name": "Abruzzo",
+      "slug": "abruzzo-pescara-italy",
+      "slug_en": "abruzzo-pescara-italy",
+      "alternative_names": ["Aeroporto di Pescara"],
+      "rank": 923,
+      "global_rank_dst": 263,
+      "dst_popularity_score": 87822,
+      "timezone": "Europe/Rome",
+      "city": {
+        "id": "pescara_it",
+        "name": "Pescara",
+        "code": "PSR",
+        "slug": "pescara-italy",
+        "country": {
+          "id": "IT",
+          "name": "Italy",
+          "slug": "italy",
+          "code": "IT"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "southern-europe",
+          "name": "Southern Europe",
+          "slug": "southern-europe"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "europe",
+          "name": "Europe",
+          "slug": "europe",
+          "code": "EU"
+        },
+        "subdivision": {
+          "id": "AB_IT",
+          "name": "Abruzzi",
+          "slug": "abruzzi-italy",
+          "code": "AB"
+        }
+      },
+      "location": {
+        "lat": 42.431667,
+        "lon": 14.186667
+      },
+      "alternative_departure_points": [
+        {
+          "id": "AOI",
+          "distance": 177.7,
+          "duration": 6804.3
+        },
+        {
+          "id": "FOG",
+          "distance": 188.96,
+          "duration": 7513.8
+        },
+        {
+          "id": "CIA",
+          "distance": 210.19,
+          "duration": 8140.4
+        },
+        {
+          "id": "FCO",
+          "distance": 237.24,
+          "duration": 9243.1
+        },
+        {
+          "id": "NAP",
+          "distance": 241.66,
+          "duration": 11697.1
+        }
+      ],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "nightlife",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1171, 1175, 1277, 1329],
+      "special": [
+        {
+          "id": "st-peter-s-basilica-vatican_poi",
+          "name": "St. Peter's Basilica, Vatican",
+          "slug": "st-peter-s-basilica"
+        },
+        {
+          "id": "colosseum_poi",
+          "name": "Colosseum",
+          "slug": "colosseum"
+        },
+        {
+          "id": "vatican-museum_poi",
+          "name": "Vatican Museum",
+          "slug": "vatican-museum"
+        },
+        {
+          "id": "pantheon_poi",
+          "name": "Pantheon",
+          "slug": "pantheon"
+        }
+      ],
+      "tourist_region": [
+        {
+          "id": "abruzzo-coast_poi",
+          "name": "Abruzzo Coast",
+          "slug": "abruzzo-coast"
+        },
+        {
+          "id": "abruzzo_poi",
+          "name": "Abruzzo",
+          "slug": "abruzzo"
+        }
+      ],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["4101763", "4419317"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "ABS",
+      "int_id": 7013,
+      "airport_int_id": 7013,
+      "active": true,
+      "code": "ABS",
+      "icao": "HEBL",
+      "name": "Abu Simbel",
+      "slug": "abu-simbel-abu-simbel-egypt",
+      "slug_en": "abu-simbel-abu-simbel-egypt",
+      "alternative_names": ["مطار أبو سمبل"],
+      "rank": 1815,
+      "global_rank_dst": 566,
+      "dst_popularity_score": 8413,
+      "timezone": "Africa/Cairo",
+      "city": {
+        "id": "abu-simbel_eg",
+        "name": "Abu Simbel",
+        "code": "ABS",
+        "slug": "abu-simbel-egypt",
+        "country": {
+          "id": "EG",
+          "name": "Egypt",
+          "slug": "egypt",
+          "code": "EG"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "northern-africa",
+          "name": "Northern Africa",
+          "slug": "northern-africa"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "africa",
+          "name": "Africa",
+          "slug": "africa",
+          "code": "AF"
+        },
+        "subdivision": null
+      },
+      "location": {
+        "lat": 22.375833,
+        "lon": 31.611667
+      },
+      "alternative_departure_points": [],
+      "tags": [
+        {
+          "tag": "sightseeing",
+          "month_to": -1,
+          "month_from": -1
+        },
+        {
+          "tag": "unusual",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [],
+      "special": [
+        {
+          "id": "abu-simbel-egypt_poi",
+          "name": "Abu Simbel, Egypt",
+          "slug": "abu-simbel"
+        }
+      ],
+      "tourist_region": [
+        {
+          "id": "aswan-governorate_poi",
+          "name": "Aswan Governorate",
+          "slug": "aswan-governorate"
+        }
+      ],
+      "car_rentals": [],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    },
+    {
+      "id": "ACA",
+      "int_id": 4879,
+      "airport_int_id": 4879,
+      "active": true,
+      "code": "ACA",
+      "icao": "MMAA",
+      "name": "Acapulco International",
+      "slug": "acapulco-international-acapulco-mexico",
+      "slug_en": "acapulco-international-acapulco-mexico",
+      "alternative_names": ["Aeropuerto Internacional General Juan N. Álvarez"],
+      "rank": 374,
+      "global_rank_dst": 258,
+      "dst_popularity_score": 102017,
+      "timezone": "America/Mexico_City",
+      "city": {
+        "id": "acapulco_mx",
+        "name": "Acapulco",
+        "code": "ACA",
+        "slug": "acapulco-mexico",
+        "country": {
+          "id": "MX",
+          "name": "Mexico",
+          "slug": "mexico",
+          "code": "MX"
+        },
+        "nearby_country": null,
+        "region": {
+          "id": "central-america",
+          "name": "Central America",
+          "slug": "central-america"
+        },
+        "autonomous_territory": null,
+        "continent": {
+          "id": "north-america",
+          "name": "North America",
+          "slug": "north-america",
+          "code": "NA"
+        },
+        "subdivision": {
+          "id": "GE_MX",
+          "name": "Guerrero",
+          "slug": "guerrero-mexico",
+          "code": "GE"
+        }
+      },
+      "location": {
+        "lat": 16.756944,
+        "lon": -99.753889
+      },
+      "alternative_departure_points": [],
+      "tags": [
+        {
+          "tag": "beach",
+          "month_to": -1,
+          "month_from": -1
+        }
+      ],
+      "providers": [1175, 1277, 1282],
+      "special": [],
+      "tourist_region": [],
+      "car_rentals": [
+        {
+          "provider_id": 1175,
+          "providers_locations": ["166979", "1531456"]
+        }
+      ],
+      "new_ground": false,
+      "routing_priority": 0,
+      "type": "airport"
+    }
+  ],
+  "meta": {
+    "locale": {
+      "code": "en-US",
+      "status": "OK"
+    }
+  },
+  "search_after": [
+    "ᔗ઒ੈˤ〡椑⁤䱄ᔨຑ䢅␀࣐ݲ綸က\u0001",
+    "0b000000000010110010100101000001"
+  ],
+  "last_refresh": 1729847192,
+  "results_retrieved": 20
+}
