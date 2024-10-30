@@ -52,7 +52,7 @@ const baseStyle = definePartsStyle({
   },
 });
 
-const variantInput = definePartsStyle((props) => {
+const variantInput = definePartsStyle((_props) => {
   return {
     field: {
       fontFamily: "cursive", // change font family to mono
@@ -78,7 +78,7 @@ const variantInput = definePartsStyle((props) => {
   };
 });
 
-const variantTextArea = definePartsStyle((props) => {
+const variantTextArea = definePartsStyle((_props) => {
   return {
     field: {
       fontFamily: "cursive", // change font family to mono
@@ -121,14 +121,6 @@ const inputTheme = defineMultiStyleConfig({
   },
 });
 
-const TextAreaTheme = defineMultiStyleConfig({
-  baseStyle,
-  variants,
-  defaultProps: {
-    size: "md",
-    variant: "textArea",
-  },
-});
 
 const themeColors = {
   ui: {
@@ -187,7 +179,7 @@ const theme = extendTheme({
   },
 
   styles: {
-    global: (props) => ({
+    global: (_props: any) => ({
       body: {
         bg: themeColors.ui.bg,
         //fontFamily: "cursive",
